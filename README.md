@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware"><img src="https://img.shields.io/badge/Awesome-Sim%20Racing%20Hardware-orange?style=for-the-badge&logo=awesome" alt="Awesome List"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware?style=for-the-badge&logo=github&color=yellow" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware?style=for-the-badge&logo=github&color=blue" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007"><img src="https://img.shields.io/github/followers/ishandutta2007?style=for-the-badge&logo=github&color=lightgrey" alt="GitHub followers" /></a>
@@ -74,7 +74,7 @@ The market displays a distinct dual-layer competitive structure:
 
 ## 💻 Open-Source GitHub Projects
 
-*Open-source firmware, libraries, and applications for DIY sim racers and embedded engineers. Sorted descending by GitHub star count.*
+*Open-source firmware, libraries, and applications for DIY sim racers and embedded engineers. Sorted descending by GitHub Stars_Count.*
 
 | 🛠️ Project & Repository | ⭐ Stargazers | 📜 License & Cost | 🆓 Free / Self-Hosted Limits | 🔍 Focus & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -138,7 +138,7 @@ We actively welcome contributions from the sim-racing community, embedded engine
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch:** `git checkout -b feature/add-new-project`
-3. 📝 **Add Your Entry:** Ensure commercial products include explicit **Starting Paid Tier Pricing** and concrete **Free Tier / Trial Limits**. For open-source repos, provide repository URL, star badge, and descriptive summary.
+3. 📝 **Add Your Entry:** Ensure commercial products include explicit **Starting Paid Tier Pricing** and concrete **Free Tier / Trial Limits**. For open-source repos, provide repository URL, Stars_Badge, and descriptive summary.
 4. 🚀 **Commit & Push:** `git commit -m "feat: add [Project Name]"`
 5. 📬 **Submit a Pull Request** with details on the hardware platform or telemetry protocol supported!
 
