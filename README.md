@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware"><img src="https://img.shields.io/badge/Awesome-Sim%20Racing%20Hardware-orange?style=for-the-badge&logo=awesome" alt="Awesome List"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware?style=for-the-badge&logo=github&color=blue" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007"><img src="https://img.shields.io/github/followers/ishandutta2007?style=for-the-badge&logo=github&color=lightgrey" alt="GitHub followers" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007l?label=Follow" /></a>
 </p>
 
 ---
@@ -35,6 +37,7 @@ Welcome to the definitive, SEO-optimized knowledge base covering **Embedded Tele
   - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
   - [🔍 Core Tech Stack & Protocols](#-core-tech-stack--protocols)
   - [🛠️ How to Contribute](#️-how-to-contribute)
+  - [📊 Star History](#-star-history)
   - [⚠️ Disclaimer](#️-disclaimer)
   - [💖 Support & Thank You](#-support--thank-you)
 
@@ -141,6 +144,12 @@ We actively welcome contributions from the sim-racing community, embedded engine
 
 ---
 
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Embedded-Telemetry-Sim-Racing-Hardware&type=date&legend=top-left)
+
+---
+
 ## ⚠️ Disclaimer
 
 All product names, trademarks, logos, and brands mentioned herein are property of their respective owners. Fanatec, Corsair, MoTeC, Bosch, AiM, SimHub, SimXperience, Virtual Racing School, Popometer, Assetto Corsa, and iRacing are registered trademarks used here solely for descriptive, comparative, and identification purposes.
@@ -149,9 +158,12 @@ All product names, trademarks, logos, and brands mentioned herein are property o
 
 ## 💖 Support & Thank You
 
+A huge thank you to everyone in the motorsport and sim racing community who builds, tests, and shares open-source hardware and telemetry tooling! 🏎️💨
+
 If you find this curated collection helpful for your DIY sim-racing rig or telemetry engineering projects:
-- ⭐ **Star this repository** to support discoverability!
-- 🔀 **Fork & share** with your local racing league or maker club.
+- ⭐ **Star this repository** to help others discover it!
+- 🔀 **Fork & share** with your racing team, league, or maker space.
 - 💬 **Open an issue or PR** to suggest new hardware dashboards, firmware projects, and telemetry tools.
+- ☕ **Buy me a coffee / Sponsor:** If you would like to support ongoing maintenance and new guides, consider sponsoring via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 *Happy Racing & Happy Building! 🏁 Keep the throttle pinned and the apex tight!*
